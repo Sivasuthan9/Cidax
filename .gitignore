@@ -94,3 +94,6 @@ coverage/
 
 # Build output
 build/
+
+# Optional: config file for shadcn/ui
+components.json
